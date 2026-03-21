@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "content": "fqefeqf",
+      "createdAt": "2026-03-21T04:55:50.873Z",
+      "id": "BY1oEMrNqAY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
